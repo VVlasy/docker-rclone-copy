@@ -1,5 +1,6 @@
 # docker-rclone
 # Creds to bcardiff for the work for this docker container (this is a forked version)
+# reason for forking is the need for an updated version of RClone which fixes bugs, and all other forks run much older rclone
 
 Docker image to perform a [rclone](http://rclone.org) copy based on a cron schedule, with [healthchecks.io](https://healthchecks.io) monitoring.
 
